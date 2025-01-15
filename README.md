@@ -1,4 +1,4 @@
-Repository for MSC project on Polyphonic DDSP for Guitar timbre transfer. Includes implimentation of DDSP network used for  guitar timbre transfer
+Repository for MSC project on Polyphonic DDSP for Guitar timbre transfer. Includes implementation of DDSP network used for  guitar timbre transfer
 
 requirements.txt contains the details on package versions required to run the code.
 
